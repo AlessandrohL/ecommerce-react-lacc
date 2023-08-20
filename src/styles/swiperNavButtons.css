@@ -1,0 +1,28 @@
+.swiper-nav-btns {
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	z-index: 999;
+}
+
+.swiper-nav-btns button {
+	background-color: rgba(0, 0, 0, 0.5);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: none;
+	font-size: 3rem;
+	color: rgba(255, 255, 255, 0.5);
+	cursor: pointer;
+}
+
+.swiper-btn-next {
+	border-radius: 50px 0px 0px 50px;
+}
+
+.swiper-btn-prev {
+	border-radius: 0px 50px 50px 0px;
+}

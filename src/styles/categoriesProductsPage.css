@@ -1,0 +1,23 @@
+.category-products-container {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	margin-top: 40px;
+	min-height: 90vh;
+}
+
+.category-products {
+	width: 70%;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 1rem;
+}
+
+.category-products-no-elements {
+	display: flex;
+	width: 70%;
+	justify-content: center;
+	margin-top: 30px;
+	font-size: 1.5rem;
+	color: var(--color-text);
+}

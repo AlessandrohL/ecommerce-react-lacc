@@ -1,0 +1,504 @@
+[
+  {
+    "product_id": "3",
+    "name": "CELULAR SAMSUNG GALAXY A54",
+    "unitPrice": 1399.9,
+    "discount": 18,
+    "discountEndDate": "2023-08-30T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065311734325/2065311734325_2.jpg",
+    "stock": 30,
+    "productDetails": [
+      {
+        "productDetailId": 10,
+        "detailType": {
+          "name": "Color"
+        },
+        "description": "Negro"
+      }
+    ]
+  },
+  {
+    "product_id": "4",
+    "name": "CELULAR SAMSUNG GALAXY A24",
+    "unitPrice": 679.9,
+    "discount": 24,
+    "discountEndDate": "2023-09-11T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065317129262/2065317129262_2.jpg",
+    "stock": 33
+  },
+  {
+    "product_id": "5",
+    "name": "CELULAR XIAOMI REDMI NOTE 12",
+    "unitPrice": 1399.9,
+    "discount": 24,
+    "discountEndDate": "2023-09-08T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 6,
+      "name": "XIAOMI"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065312061567/2065312061567_2.jpg",
+    "stock": 48
+  },
+  {
+    "product_id": "6",
+    "name": "SAMSUNG GALAXY S21 FE 128GB 6GB GRIS",
+    "unitPrice": 2199.9,
+    "discount": 16,
+    "discountEndDate": "2023-08-28T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065287426156/2065287426156_2.jpg",
+    "stock": 41
+  },
+  {
+    "product_id": "7",
+    "name": "APPLE IPHONE 14 PRO 6.1' 128GB 48MP + 12MP + 12MP NEGRO ESPACIAL",
+    "unitPrice": 5099.9,
+    "discount": 9,
+    "discountEndDate": "2023-09-02T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 4,
+      "name": "APPLE"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065300885298/2065300885298_2.jpg",
+    "stock": 28
+  },
+  {
+    "product_id": "8",
+    "name": "APPLE IPHONE SE 4.7' 64GB 7MP 12MP AZUL MEDIANOCHE",
+    "unitPrice": 1699.9,
+    "discount": 23,
+    "discountEndDate": "2023-09-07T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 4,
+      "name": "APPLE"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065295476693/2065295476693_2.jpg",
+    "stock": 16
+  },
+  {
+    "product_id": "9",
+    "name": "CELULAR XIAOMI REDMI 12C REDMI 12C 4+128GB",
+    "unitPrice": 429.9,
+    "discount": 22,
+    "discountEndDate": "2023-09-09T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 6,
+      "name": "XIAOMI"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065315059653/2065315059653_2.jpg",
+    "stock": 35
+  },
+  {
+    "product_id": "10",
+    "name": "LAPTOP ASUS X515EA-BR2991W ",
+    "unitPrice": 1299.9,
+    "discount": 8,
+    "discountEndDate": "2023-09-10T21:41:02.047Z",
+    "category": {
+      "categoryId": 1,
+      "name": "Laptops"
+    },
+    "brand": {
+      "brandId": 3,
+      "name": "ASUS"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2004307860792/2004307860792_2.jpg",
+    "stock": 1
+  },
+  {
+    "product_id": "12",
+    "name": "LAPTOP ACER NITRO 5 INTEL CORE I5",
+    "unitPrice": 3199,
+    "discount": 16,
+    "discountEndDate": "2023-09-03T21:41:02.047Z",
+    "category": {
+      "categoryId": 1,
+      "name": "Laptops"
+    },
+    "brand": {
+      "brandId": 3,
+      "name": "ASUS"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2004292267064/2004292267064_2.jpg",
+    "stock": 19
+  },
+  {
+    "product_id": "13",
+    "name": "LAPTOP GAMER ASUS TUF F15 FX507ZC4-HN002W",
+    "unitPrice": 4699,
+    "discount": 10,
+    "discountEndDate": "2023-09-09T21:41:02.047Z",
+    "category": {
+      "categoryId": 1,
+      "name": "Laptops"
+    },
+    "brand": {
+      "brandId": 3,
+      "name": "ASUS"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2004311354577/2004311354577_2.jpg",
+    "stock": 27
+  },
+  {
+    "product_id": "14",
+    "name": "SMARTWATCH SAMSUNG WATCH4 40MM NEGRO",
+    "unitPrice": 599,
+    "discount": 14,
+    "discountEndDate": "2023-09-07T21:41:02.047Z",
+    "category": {
+      "categoryId": 9,
+      "name": "Smartwatch"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065277995471/2065277995471_2.jpg",
+    "stock": 27
+  },
+  {
+    "product_id": "15",
+    "name": "APPLE WATCH SE (44MM, GPS) ",
+    "unitPrice": 1299,
+    "discount": 21,
+    "discountEndDate": "2023-09-08T21:41:02.047Z",
+    "category": {
+      "categoryId": 9,
+      "name": "Smartwatch"
+    },
+    "brand": {
+      "brandId": 4,
+      "name": "APPLE"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2065312840100/2065312840100_2.jpg",
+    "stock": 8
+  },
+  {
+    "product_id": "18",
+    "name": "TELEVISOR LG LED/LCD 4K ULTRA HD 55\" SMART TV CON THINQ AI 55UR7300PSA",
+    "unitPrice": 1399,
+    "discount": 18,
+    "discountEndDate": "2023-09-01T21:41:02.047Z",
+    "category": {
+      "categoryId": 10,
+      "name": "Televisores"
+    },
+    "brand": {
+      "brandId": 18,
+      "name": "LG"
+    },
+    "picture": "https://home.ripley.com.pe/Attachment/WOP_5/2018315880444/2018315880444_2.jpg",
+    "stock": 15
+  },
+  {
+    "product_id": "19",
+    "name": "TELEVISOR XIAOMI LED UHD 4K 65\" SMART TV MI P1E",
+    "unitPrice": 1699,
+    "discount": 8,
+    "discountEndDate": "2023-09-05T21:41:02.047Z",
+    "category": {
+      "categoryId": 10,
+      "name": "Televisores"
+    },
+    "brand": {
+      "brandId": 6,
+      "name": "XIAOMI"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2Fe326004a-5b51-4797-814e-e104e354e7db?alt=media&token=1eed4b42-e5e0-427d-b6b6-85a8556947b0",
+    "stock": 25
+  },
+  {
+    "product_id": "20",
+    "name": "LAPTOP MSI KATANA GF76, INTEL CORE I7-12700H, 8GB, SSD512GB, 6GB RTX3060, FHD 17.3'",
+    "unitPrice": 6879.9,
+    "discount": 5,
+    "discountEndDate": "2023-09-06T21:41:02.047Z",
+    "category": {
+      "categoryId": 1,
+      "name": "Laptops"
+    },
+    "brand": {
+      "brandId": 15,
+      "name": "MSI"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2Fce095fb9-03ee-42ef-a9aa-61e8ef903170?alt=media&token=c87d2ffa-999c-4bcf-b1ba-64c645cff4fa",
+    "stock": 16
+  },
+  {
+    "product_id": "21",
+    "name": "AUDÍFONOS BLUETOOTH ON EAR SONY NEGRO WH1000XM4",
+    "unitPrice": 899,
+    "discount": 15,
+    "discountEndDate": "2023-09-10T21:41:02.047Z",
+    "category": {
+      "categoryId": 11,
+      "name": "Audífonos"
+    },
+    "brand": {
+      "brandId": 2,
+      "name": "SONY"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F1a003ea3-38a2-4b30-a4a7-402f113d37ca?alt=media&token=c7d8c0c4-d219-4134-a175-0fa3f738b313",
+    "stock": 18
+  },
+  {
+    "product_id": "23",
+    "name": "CELULAR SAMSUNG GALAXY A04 6.5\" 4GB 64GB 50MP + 2MP NEGRO",
+    "unitPrice": 529,
+    "discount": 7,
+    "discountEndDate": "2023-09-04T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2Fae13ed63-1b08-46a5-80e3-77abfb4f0365?alt=media&token=75915c10-d8cd-4802-9f6d-cd894748a1ba",
+    "stock": 30
+  },
+  {
+    "product_id": "24",
+    "name": "CELULAR SAMSUNG GALAXY A34 5G 6.6\" 8GB 256GB 48 MP + 8 MP + 5 MP GRAFITO",
+    "unitPrice": 1189,
+    "discount": 23,
+    "discountEndDate": "2023-09-06T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F9fda5a15-53cf-4048-8a4e-af25088a4c30?alt=media&token=50df239a-fb7a-432f-bcbb-44296d226ca5",
+    "stock": 30
+  },
+  {
+    "product_id": "25",
+    "name": "CELULAR SAMSUNG GALAXY A04S 6.5\" 3GB 64GB 50MP + 2MP + 2MP SM-A047MZKELTP NEGRO",
+    "unitPrice": 599,
+    "discount": 5,
+    "discountEndDate": "2023-08-28T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F60d347e7-a41d-4d8f-bc7a-d21d28b53164?alt=media&token=8fcfbc49-9743-42a7-ac71-d344dccff637",
+    "stock": 40
+  },
+  {
+    "product_id": "26",
+    "name": "CELULAR SAMSUNG GALAXY S20 FE 6.5'' 6GB 128GB 12MP + 12MP + 8MP AZUL",
+    "unitPrice": 1899,
+    "discount": 24,
+    "discountEndDate": "2023-09-10T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2Fae6ec77a-8649-4c22-8b16-a381cdac5bfa?alt=media&token=607019e1-629e-475e-b0a6-85131b743ff9",
+    "stock": 25
+  },
+  {
+    "product_id": "27",
+    "name": "BUNDLE ZFLIP5 512GB GRAPHITE + SMART UX CASE + TRAVEL ADAPTER 25W",
+    "unitPrice": 4799,
+    "discount": 23,
+    "discountEndDate": "2023-08-29T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2Fa5f8488e-a3ea-4e9d-8951-da22b924a323?alt=media&token=8fab5d02-e852-40e4-9cf5-de5b64de0af1",
+    "stock": 12
+  },
+  {
+    "product_id": "28",
+    "name": "CELULAR SAMSUNG GALAXY S23 6.1\" 8GB 256GB 50MP + 10MP + 12MP SM-S911BLIMLTP LAVANDA",
+    "unitPrice": 3999,
+    "discount": 14,
+    "discountEndDate": "2023-09-03T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F99e09262-57ed-4d22-9a3a-776e508dec5e?alt=media&token=1ba065b2-82d8-4a53-abd5-5868fa7ebce1",
+    "stock": 20
+  },
+  {
+    "product_id": "29",
+    "name": "BUNDLE ZFOLD5 512GB BLACK + CLEAR GADGET CASE + TRAVEL ADAPTER 25W",
+    "unitPrice": 7999,
+    "discount": 6,
+    "discountEndDate": "2023-09-09T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F672cb861-3a7c-496d-bf25-e92a5dc26fb3?alt=media&token=dc7ecad9-9afd-4c06-ace9-ab0c74e67aa9",
+    "stock": 13
+  },
+  {
+    "product_id": "30",
+    "name": "CELULAR SAMSUNG GALAXY S22 6.1\" 8GB 128GB 50MP + 10MP + 12MP NEGRO",
+    "unitPrice": 3499,
+    "discount": 21,
+    "discountEndDate": "2023-09-09T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F06cc0c66-7eb9-4909-8655-af6569a04a67?alt=media&token=069644ac-b4ae-4632-bc73-c24aa24252ba",
+    "stock": 22
+  },
+  {
+    "product_id": "31",
+    "name": "CELULAR SAMSUNG GALAXY A53 6.5\" 128GB 6GB 32MP + 64MP + 12MP + 5MP + 5MP",
+    "unitPrice": 1699,
+    "discount": 11,
+    "discountEndDate": "2023-08-30T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F56c38126-e3b8-4e54-bafc-b99b0785b57d?alt=media&token=99ec700b-0537-4a3b-8589-a585ba370a0e",
+    "stock": 18
+  },
+  {
+    "product_id": "32",
+    "name": "BUNDLE ZFLIP5 512GB MINT + SMART UX CASE + TRAVEL ADAPTER 25W",
+    "unitPrice": 4549,
+    "discount": 10,
+    "discountEndDate": "2023-09-02T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F6182fcbe-90b4-48d1-88f0-31c0a45e26e8?alt=media&token=9ad61ee2-cbe0-49fc-b99a-aec5df29714b",
+    "stock": 7
+  },
+  {
+    "product_id": "33",
+    "name": "CELULAR SAMSUNG GALAXY S23 ULTRA 6.8\" 12GB 512GB 200MP + 10MP + 12MP + 10MP SM-S918BLIVLTP LAVANDA",
+    "unitPrice": 5999,
+    "discount": 24,
+    "discountEndDate": "2023-09-05T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2F18bec43a-cc46-4fbc-8122-3e31cb8b1a31?alt=media&token=c2b4031a-1b1b-44d7-91a7-c1419efb1bc0",
+    "stock": 25
+  },
+  {
+    "product_id": "34",
+    "name": "GALAXY A13 128GB 4GB RAM NEGRO",
+    "unitPrice": 935,
+    "discount": 5,
+    "discountEndDate": "2023-09-05T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2Fdd9800bc-3030-4e2f-823d-796e5ae46b8a?alt=media&token=8ef02ead-c2c7-4613-bdc9-3bf3a0c296ce",
+    "stock": 28
+  },
+  {
+    "product_id": "35",
+    "name": "SAMSUNG SMARTPHONE 6.4» 4GB RAM/64GB 48MP+5MP+2MP+2MP GALAXY A12",
+    "unitPrice": 799,
+    "discount": 10,
+    "discountEndDate": "2023-09-09T21:41:02.047Z",
+    "category": {
+      "categoryId": 3,
+      "name": "Smartphones"
+    },
+    "brand": {
+      "brandId": 1,
+      "name": "SAMSUNG"
+    },
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-firebase-image-7041f.appspot.com/o/digitalDen%2Fproducts%2Fc3d9bf13-2cbc-4c4e-a3f8-fbd9e2bd893a?alt=media&token=51c9ca6a-b45f-45bb-a44f-a29af1ad6ff6",
+    "stock": 45
+  }
+]

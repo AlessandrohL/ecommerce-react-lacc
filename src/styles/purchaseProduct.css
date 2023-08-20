@@ -1,0 +1,88 @@
+.purchase-product {
+	display: flex;
+	gap: 15px;
+	border: 1.5px solid rgba(106, 106, 106, 0.4);
+	border-radius: 5px;
+	padding: 20px 10px;
+}
+
+.purchase-product-image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 30%;
+	max-width: 95px;
+	max-height: 75px;
+	/* height: auto; */
+}
+
+.purchase-product-image img {
+	width: 100%;
+	height: 100%;
+}
+
+.purcharse-product-container {
+	width: 50%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.purchase-product-info {
+	display: flex;
+	flex-direction: column;
+	max-width: 340px;
+	gap: 5px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.purchase-product-info-name {
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: var(--color-black-light);
+	font-size: 1rem;
+}
+
+.purchase-product-info {
+	color: var(--color-black-light);
+}
+
+.purchase-product-price {
+	width: 20%;
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+
+.purchase-product-delete {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+}
+
+.purchase-product-delete div {
+	display: flex;
+	gap: 10px;
+}
+
+.purchase-product-delete div .total {
+	color: var(--color-black-light);
+	font-weight: bold;
+}
+
+.purchase-product-delete div .total-price {
+	color: rebeccapurple;
+}
+
+.purchase-product-delete button {
+	border: none;
+	overflow: none;
+	background-color: var(--color-red);
+	color: var(--color-grey-light);
+	padding: 5px 9px;
+	border-radius: 50%;
+	cursor: pointer;
+}

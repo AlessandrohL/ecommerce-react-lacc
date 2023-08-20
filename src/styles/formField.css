@@ -1,0 +1,25 @@
+.form-fieldset {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	align-items: start;
+	justify-content: center;
+	border: none;
+}
+
+.form-fieldset label {
+	font-weight: bold;
+	color: var(--color-black);
+	opacity: 0.8;
+}
+
+.form-fieldset input {
+	width: 400px;
+	padding: 10px 15px;
+	border-radius: 10px;
+	outline: none;
+	border: none;
+	background-color: var(--color-grey);
+	color: var(--color-black);
+	transition: all 0.3s ease;
+}

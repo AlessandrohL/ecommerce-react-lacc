@@ -1,0 +1,21 @@
+.product-specification-content {
+	display: flex;
+	align-items: center;
+	height: 60px;
+	border-bottom: 2px solid var(--color-grey);
+	text-overflow: ellipsis;
+}
+
+.specification-title {
+	width: 30%;
+	height: inherit;
+	display: flex;
+	align-items: center;
+}
+
+.specification-description {
+	width: 70%;
+	height: inherit;
+	display: flex;
+	align-items: center;
+}

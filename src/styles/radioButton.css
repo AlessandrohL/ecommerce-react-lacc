@@ -1,0 +1,29 @@
+.brand-option {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	cursor: pointer;
+}
+
+.brand-option .radio-input {
+	display: none;
+}
+
+.brand-option .radio-container {
+	display: inline-block;
+	margin-right: 10px;
+	width: 16px;
+	height: 16px;
+	border: 2px solid #ccc;
+	border-radius: 50%;
+}
+
+.brand-option .radio-label {
+	color: var(--color-text);
+	cursor: pointer;
+}
+
+.brand-option .radio-input:checked + .radio-container {
+	border-color: #2196f3;
+	background-color: #2196f3;
+}

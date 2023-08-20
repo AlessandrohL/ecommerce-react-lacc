@@ -1,0 +1,32 @@
+[
+  {
+    "categoryId": 1,
+    "name": "Laptops",
+    "providerId": 2
+  },
+  {
+    "categoryId": 3,
+    "name": "Smartphones",
+    "providerId": 1
+  },
+  {
+    "categoryId": 9,
+    "name": "Smartwatch",
+    "providerId": 7
+  },
+  {
+    "categoryId": 10,
+    "name": "Televisores",
+    "providerId": 8
+  },
+  {
+    "categoryId": 11,
+    "name": "Audífonos",
+    "providerId": 4
+  },
+  {
+    "categoryId": 12,
+    "name": "Componentes",
+    "providerId": 6
+  }
+]

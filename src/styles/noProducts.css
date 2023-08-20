@@ -1,0 +1,29 @@
+.no-products-container {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.no-products-container i {
+	font-size: 4rem;
+	color: var(--color-black-light);
+}
+
+.no-products-container p {
+	color: var(--color-black-light);
+	font-size: 1.1rem;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.no-products-container button {
+	background-color: var(--color-blue);
+	border: none;
+	outline: none;
+	font-size: 1rem;
+	color: var(--color-grey-light);
+	padding: 15px 40px;
+	border-radius: 5px;
+	cursor: pointer;
+}

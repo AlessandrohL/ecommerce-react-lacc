@@ -1,0 +1,71 @@
+:root {
+	--color-grey: #e5e7eb;
+	--color-blue: #0984e3;
+	--color-grey-light: #f8f8f8;
+	--color-text: #6a6a6a;
+	--color-red: #e75353;
+	--color-blue-hover: #002774;
+	--color-blue-light: #aacce8;
+	--color-black: #0e0e0e;
+	--color-black-one: #282c34;
+	--color-black-light: #6a6a6a;
+	--color-green: #98c379;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+select {
+	padding: 5px 20px;
+	border: none;
+	background-color: var(--color-grey);
+	color: var(--color-black-one);
+}
+
+html {
+	font-size: 16px;
+}
+
+footer {
+	margin-top: 50px;
+	padding: 40px 0;
+	text-align: center;
+	background-color: var(--color-grey);
+	font-weight: bold;
+}
+
+.loader-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.message-error-global,
+.message-correct-global {
+	position: absolute;
+	background-color: #e06c75;
+	color: #282c34;
+	font-weight: bold;
+	padding: 5px 0;
+	text-align: center;
+	top: 0;
+	right: 0;
+	left: 0;
+	transform: translateY(-150%);
+	transition: all 0.3s ease;
+}
+
+.message-correct-global {
+	background-color: #98c379;
+}

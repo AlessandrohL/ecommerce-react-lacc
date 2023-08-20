@@ -1,0 +1,21 @@
+.psi-ad-offert-time-container {
+	display: flex;
+	flex-direction: column;
+	gap: 3px;
+}
+
+.psi-ad-offert-time-number {
+	background-color: var(--color-grey);
+	color: var(--color-black-one);
+	font-weight: bold;
+	text-align: center;
+	padding: 5px 0;
+	font-size: 1.8rem;
+	min-width: 70px;
+	border-radius: 5px;
+}
+
+.psi-ad-offert-time-unit {
+	color: var(--color-grey-light);
+	text-align: center;
+}

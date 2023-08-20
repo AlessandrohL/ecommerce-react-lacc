@@ -1,0 +1,44 @@
+.category-products .product-figure {
+	max-width: 240px;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	cursor: pointer;
+	position: relative;
+}
+
+.product-figure img {
+	width: 100%;
+}
+
+.product-figure .product-figure-brand {
+	text-transform: uppercase;
+}
+
+.product-figure .product-figure-name {
+	color: var(--color-text);
+	text-transform: uppercase;
+}
+
+.product-figure .product-figure-price {
+	color: var(--color-red);
+	font-weight: bold;
+}
+
+.product-figure-discountPrice {
+	text-decoration: line-through;
+	color: var(--color-text);
+}
+
+.product-figure-discount {
+	position: absolute;
+	background-color: var(--color-red);
+	color: var(--color-grey-light);
+	font-weight: bold;
+	text-align: center;
+	right: 0;
+	top: -5px;
+	padding: 6px 14px;
+	border-radius: 3px;
+}
