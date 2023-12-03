@@ -10,7 +10,7 @@
 ## Uso
 
 1. Ejecuta el servidor de desarrollo: `yarn dev`.
-2. Abre tu navegador y navega a `http://localhost:3000` para ver la aplicación.
+2. Abre tu navegador y navega a `http://localhost:XXXX` para ver la aplicación.
 
 ## Autor
 
